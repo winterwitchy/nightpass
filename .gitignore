@@ -1,0 +1,5 @@
+# Zip dosyaları (teslim arşivi)
+*.zip
+
+# Java derleme çıktıları
+*.class
