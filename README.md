@@ -45,8 +45,8 @@ Custom implementation of core data structures without standard Java Collections 
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/winterwitchy/nightpass-survivor.git
-cd nightpass-survivor
+git clone https://github.com/winterwitchy/nightpass
+cd nightpass
 ```
 
 2. **Compile:**
