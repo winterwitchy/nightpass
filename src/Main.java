@@ -1,7 +1,5 @@
 
 /**
- * CMPE 250 Project 1 - Nightpass Survivor Card Game
- * 
  * This skeleton provides file I/O infrastructure. Implement your game logic
  * as you wish. There are some import that is suggested to use written below. 
  * You can use them freely and create as manys classes as you want. However, 
@@ -47,7 +45,6 @@
  * - Java SDK 8+ (javac, java commands)
  * - Python 3.6+ (for test runner)
  * 
- * @author CMPE250 Student (replace with your name)
  */
 
 import java.io.*;
